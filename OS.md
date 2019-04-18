@@ -1,0 +1,1 @@
+Kernel is a low level software without user interface. It's a basic software of computer, uses for manage resources, manage computer memory, and manage computer devices and provide API to be used by other devices.
